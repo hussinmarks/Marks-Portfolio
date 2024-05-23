@@ -1,29 +1,40 @@
 [
-    {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
-    }
-  ]
+  {
+    "role": "15G Aircraft Structural Repairer",
+    "organisation": "Army 15G",
+    "startDate": "2020",
+    "endDate": "2023",
+    "experiences": [
+      "Repaired and maintained aircraft structures, ensuring structural integrity.",
+      "Interpreted technical manuals and blueprints for repair tasks.",
+      "Performed welding and riveting to repair aircraft skin and framework.",
+      "Conducted inspections to identify damage and ensure standards compliance.",
+      "Maintained detailed maintenance records using Army systems."
+    ],
+    "imageSrc": "history/army_15g.png"
+  },
+  {
+    "role": "Computer Numerical Control Machinist",
+    "organisation": "Precision Gear",
+    "startDate": "2023",
+    "endDate": "2023",
+    "experiences": [
+      "Set up and operated Fanuc turn mill maintaining a .0005 tolerance per customer specification through precise tooling adjustments and machine maintenance.",
+      "Utilized precision measurement tools including CMM, calipers, micrometers, and shadow graphs to ensure accurate part measurements and quality control.",
+      "Demonstrated proficiency in CNC programming, machine operation, blueprint reading, and continuous improvement initiatives ensuring safety compliance and production efficiency."
+    ],
+    "imageSrc": "history/precision_gear.png"
+  },
+  {
+    "role": "CAD Drafter",
+    "organisation": "Pike Telecom",
+    "startDate": "2021",
+    "endDate": "2022",
+    "experiences": [
+      "Created technical drawings using CAD software for telecommunications infrastructure designs ensuring compliance with industry standards and safety requirements.",
+      "Collaborated with engineers to modify and update designs as needed incorporating feedback and ensuring accurate documentation.",
+      "Maintained proficiency in CAD software, telecommunications design principles, blueprint reading, and continuous learning of new technologies."
+    ],
+    "imageSrc": "history/pike_telecom.png"
+  }
+]
