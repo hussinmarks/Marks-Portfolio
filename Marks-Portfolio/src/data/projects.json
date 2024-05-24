@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Drive Time",
+      "imageSrc": "projects/drive-time.PNG",
+      "description": " Drive Time is a web application designed to facilitate the tracking and management of driving hours for learner drivers, aiding them in meeting the requirements necessary for obtaining a driver's license.",
+      "skills": ["github","MySQL","javaScript","HTML5","CSS3","postman","React", "Express", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/ashokjr99/Learners-Permit-Capstone"
     },
     {
-      "title": "Project B",
+      "title": "React Chat",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "description": "Developed a real-time chat application using React.js for the frontend and Node.js with Express.js for the backend. Implemented user authentication, message persistence, and real-time updates.",
+      "skills": ["github","MySQL","javaScript","HTML5","CSS3","postman","React", "Express", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/hussinmarks/React-Chat"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Jeopardy board",
+      "imageSrc": "projects/jeppng.PNG",
+      "description": " Developed a Jeopardy board game web application using HTML, CSS, and JavaScript. Implemented game logic, question display, player score tracking, and user interaction features.",
+      "skills": ["github","javaScript","HTML5","CSS3","Json", "Express", "Node"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/hussinmarks/jeopardy-game"
     }
   ]
